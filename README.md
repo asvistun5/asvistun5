@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Artem @asvistun5
+- 👋 Hello my name is Artem and I'm Python Developer
