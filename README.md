@@ -1,1 +1,1 @@
-- 👋 Hello my name is Artem and I'm Python Developer
+The project i'm working on: https://github.com/Levkivskiydmitro/qr_dj.git
