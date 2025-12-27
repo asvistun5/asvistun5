@@ -6,6 +6,9 @@ AI that makes quizes easy to make
 ### 🧩 Other JS project: [Fast-Browser](https://github.com/asvistun5/Fast-Browser)  |  Blog: [Telegram](https://t.me/venxdev)
 <br>
 <div>
+  
+### 💻 Tech Stack & Tools
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" alt="JS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40" alt="TS" />
