@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Artem 
+## 👋 Hi, I'm ASvystun
 Fourth-year Full-Stack & JavaScript developer (Python background)
 ## 🟣 Current project: [GPTQuiz](https://github.com/IllyaShramko/GPTQuiz)
 AI that makes quizes easy to make
