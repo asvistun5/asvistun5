@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm ASvystun
 Fourth-year Full-Stack, Mobile, Desktop developer
 
-## 💻 My Tech Stack
-
-### Main Stack
+### 💻 My Main Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,electron,prisma)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="40" width="40" alt="jQuery" />
